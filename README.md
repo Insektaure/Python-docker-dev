@@ -72,7 +72,7 @@ Starts the Docker containers, Builds the images with the appropriate architectur
     make status
     ```
    
-5. **Set up the project by installing Composer dependencies:**
+5. **Set up the project:**
 
     ```sh
     make setup

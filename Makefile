@@ -43,4 +43,3 @@ status:
 # Builders
 # -------------------------------------
 setup: pre-up build up
-	@$(COMPOSE) exec php composer install --working-dir=/var/www
