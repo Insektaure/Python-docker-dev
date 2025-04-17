@@ -44,7 +44,7 @@ Displays the status of the Docker containers.
 
 ### `make setup`
 
-Starts the Docker containers, Builds the images with the appropriate architecture, and installs Composer dependencies.
+Starts the Docker containers, Builds the images with the appropriate architecture.
 
 ## Usage
 
